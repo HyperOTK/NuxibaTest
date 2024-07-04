@@ -1,0 +1,10 @@
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.csproj.AssemblyReference.cache
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.Form1.resources
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.Properties.Resources.resources
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.csproj.GenerateResource.cache
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.csproj.CoreCompileInputs.cache
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\bin\Debug\NuxibaTest.exe.config
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\bin\Debug\NuxibaTest.exe
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\bin\Debug\NuxibaTest.pdb
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.exe
+C:\Users\carlg\source\repos\NuxibaTest\NuxibaTest\obj\Debug\NuxibaTest.pdb
